@@ -7,7 +7,7 @@ Aspiring Software Developer
 Recently Completed my Masters of Computer Application
 
 * 🌍  I'm based in Udupi, India
-* ✉️  You can contact me at [prathvi.shetty29@gmail.com](mailto:prathvi.shetty29@gmail.com)
+* ✉️  You can contact me at [shetty.prathvi29@gmail.com](mailto:shetty.prathvi29@gmail.com)
 * 🧠  I'm learning Java, spring boot, python
 * 🤝  I'm open to collaborating on Java
 
