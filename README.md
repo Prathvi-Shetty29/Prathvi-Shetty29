@@ -55,7 +55,7 @@ Recently Completed my Masters of Computer Application
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
         </picture>
     </a>
-    <a href="https://www.x.com/Prathvi72517555" target="_blank" rel="noreferrer">
+    <a href="https://twitter.com/Prathvi_29" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
