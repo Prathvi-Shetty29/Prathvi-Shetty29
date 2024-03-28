@@ -1,70 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prathvi Shetty
-======================================================================================================================================
+<h1 align="center"><strong>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome Gif"> My name is Prathvi Shetty</strong></h1>
 
-Aspiring Software Developer
----------------------------
+<h3 align="center">Aspiring software developer from India</h3>
 
-Recently Completed my Masters of Computer Application
+<img alt="GIF" align="right" height="170" width="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
 
-* 🌍  I'm based in Udupi, India
-* ✉️  You can contact me at [shetty.prathvi29@gmail.com](mailto:shetty.prathvi29@gmail.com)
-* 🧠  I'm learning Java, spring boot, python
-* 🤝  I'm open to collaborating on Java
+<p align="left">Recently Completed my Masters of Computer Application</p>
 
-### Skills
+* 🌍  I'm based in Udupi, India
 
+* ✉️  You can contact me at [shetty.prathvi29@gmail.com](mailto:shetty.prathvi29@gmail.com)
+  
+* 🧠  I'm learning Java, spring boot, python
+  
+* 🤝  I'm open to collaborating on Java
 
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    
-</p>
+<hr />
 
+<img alt="GIF" height="200" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">
 
+<div align="center">
+  <br />
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/prathvi-shetty29/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Prathvi_29" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://leetcode.com/Prathvi_Shetty/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="codingmickey" height="30" width="25" /></a>
+    <a href="https://twitter.com/Prathvi_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prathvi_29" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  </p>
+</div>
 
-### Socials
+<br /><br /><br />
+<hr />
 
-<p align="left"> 
-    <a href="https://www.github.com/Prathvi-Shetty29" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/prathvi-shetty29/" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://twitter.com/Prathvi_29" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-        </picture>
-    </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
 
+<img alt="typing" align="right" height="180" width="300" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif">
 
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,mysql,spring,hibernate,linux,git,github,vscode,idea&perline=3)](https://skillicons.dev)
+
+<hr />
 
 <b>Top Repositories</b>
 
