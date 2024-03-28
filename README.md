@@ -2,7 +2,7 @@
 
 <h3 align="center">Aspiring software developer from India</h3>
 
-<img alt="GIF" align="right" height="170" width="250" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anya-spy-x-family-12.gif">
+<img alt="GIF" align="right" height="170" width="250" src="https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif?cid=790b7611uypotb9db3orpqdta0uy99v7vhrw1q8hfqhjn5wq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left">Recently Completed my Masters of Computer Application</p>
 
@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img alt="typing" align="right" height="180" width="300" src="https://c.tenor.com/HzrtGBa_hZgAAAAC/typing-anime.gif">
+<img alt="typing" align="right" height="220" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25vZDZ1dGZmbHFsMHdycnlxcDd4cThyYmkzNHk0cmRydmxzeGtiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8IGuMMq3Aka8Zq9Kax/giphy.gif">
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,mysql,spring,hibernate,linux,git,github,vscode,idea&perline=3)](https://skillicons.dev)
 
