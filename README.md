@@ -19,7 +19,7 @@
 
 <hr />
 
-<img alt="GIF" height="220" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">
+<img alt="GIF" height="200" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">
 
 <div align="center">
   <br />
