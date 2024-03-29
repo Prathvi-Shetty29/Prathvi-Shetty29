@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img alt="typing" align="right" height="220" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25vZDZ1dGZmbHFsMHdycnlxcDd4cThyYmkzNHk0cmRydmxzeGtiZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8IGuMMq3Aka8Zq9Kax/giphy.gif">
+<img alt="typing" align="right" height="220" width="300" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif?cid=790b7611r1d3sqq07lvvarukdgueadzr60ogti85gda5yvhh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,mysql,spring,hibernate,linux,git,github,vscode,idea&perline=3)](https://skillicons.dev)
 
