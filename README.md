@@ -4,7 +4,8 @@
 
 <img alt="GIF" align="right" height="170" width="250" src="https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif?cid=790b7611uypotb9db3orpqdta0uy99v7vhrw1q8hfqhjn5wq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left">Recently Completed my Masters of Computer Application</p>
+<p align="left">🏫 Recently Completed my Masters of Computer Application</p>
+
 
 * 🌍  I'm based in Udupi, India
 
@@ -14,9 +15,11 @@
   
 * 🤝  I'm open to collaborating on Java
 
+* 🌐 Passionate about open-source collaboration, seeking impactful projects. Excited to apply skills to real-world solutions.
+
 <hr />
 
-<img alt="GIF" height="200" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">
+<img alt="GIF" height="220" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">
 
 <div align="center">
   <br />
